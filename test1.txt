@@ -1,10 +1,2 @@
- Volume in drive C is OS
- Volume Serial Number is AECD-154A
+change 1
 
- Directory of C:\Users\Bhakti\Desktop\MyProject
-
-15-04-2021  12:59    <DIR>          .
-15-04-2021  12:59    <DIR>          ..
-15-04-2021  12:59                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  15,602,790,400 bytes free
